@@ -1,6 +1,6 @@
 # IGMonitor [![Generic badge](https://img.shields.io/badge/Python-3.8.5-<COLOR>.svg)](https://shields.io/)
-IGMonitor is a micro open source intelligence (OSINT) app written in python that tracks an instagram user **followings**, **unfollowings**, **followers**, **unfollowers**.
-
+IGMonitor is a micro open source intelligence (OSINT) tool, written in python that tracks an instagram user **followings**, **unfollowings**, **followers**, **unfollowers**.
+> works best on small accounts
 ## Installation:
 ```terminal
 # clone the repo
