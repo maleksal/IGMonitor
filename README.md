@@ -1,2 +1,25 @@
-# IGMonitor
-Monitor Instagram Profiles
+# IGMonitor [![Generic badge](https://img.shields.io/badge/Python-3.8.5-<COLOR>.svg)](https://shields.io/)
+IGMonitor is a python micro open source intelligence (OSINT) application that tracks a spesific user **followings**, **unfollowings**, **followers**, **unfollowers**.
+
+## Installation:
+```terminal
+# clone the repo
+$ git clone https://github.com/maleksal/IGMonitor.git
+
+# change the working directory to IGMonitor
+$ cd IGMonitor
+
+# install the requirements
+$ python3 -m pip install -r requirements.txt
+```
+create .env file
+```bash
+BASE_URL=INSTAGRAM_URL
+IGUSERNAME=YOUR_INSTAGRAM_USERNAME
+PASSWORD=YOUR_INSTAGRAM_PASSWORD
+```
+## Usage:
+**Run App**
+![](https://github.com/maleksal/IGMonitor/blob/main/carbon(1).png)
+
+
