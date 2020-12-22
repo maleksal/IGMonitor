@@ -9,6 +9,9 @@ $ git clone https://github.com/maleksal/IGMonitor.git
 # change the working directory to IGMonitor
 $ cd IGMonitor
 
+# move geckodriver to usr/local/bin
+$ mv geckodriver usr/local/bin
+
 # install the requirements
 $ python3 -m pip install -r requirements.txt
 ```
